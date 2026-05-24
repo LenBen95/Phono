@@ -1,0 +1,15 @@
+{
+  "name": "Phono",
+  "description": "Control audio output device sample rate and bit depth directly from the GNOME top bar. Supports multiple ALSA devices with per-device configuration via WirePlumber.",
+  "uuid": "phono@lenben",
+  "shell-version": ["50"],
+  "version": 1,
+  "url": "https://github.com/lenben/phono",
+  "license": "GPL-2.0-or-later"
+}{
+  "name": "Phono",
+  "description": "Audio device sample rate and bit depth control",
+  "uuid": "phono@lenben",
+  "shell-version": ["50"],
+  "version": 1
+}
