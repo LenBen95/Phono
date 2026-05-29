@@ -22,17 +22,17 @@ A GNOME Shell extension for audiophiles on Linux. Control your audio output devi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lenben/phono
+   git clone https://github.com/user/phono
    ```
 
 2. Copy to your GNOME extensions folder:
    ```bash
-   cp -r phono ~/.local/share/gnome-shell/extensions/phono@lenben
+   cp -r phono ~/.local/share/gnome-shell/extensions/phono@user
    ```
 
 3. Enable the extension:
    ```bash
-   gnome-extensions enable phono@lenben
+   gnome-extensions enable phono@user
    ```
 
 4. Log out and back in.
